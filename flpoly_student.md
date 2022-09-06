@@ -1,27 +1,27 @@
-## Student Name (or name you would preferred to be called)
+Gabriel Schulz
 
 ### Fall 2022
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course
+- Anlytic Geometry and Calculus 2
 
-- Course 2
+- Introduction to Computation and Programming
 
-- Course 3
+- Introduction to data science
 
-- Course 4
+- Python for data analytics
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- backpacking
 
-- Thing 2
+- climbing
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- sleeping
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2022/09/06
